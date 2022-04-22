@@ -8,3 +8,5 @@
 - scripts displayed for non UI comparisions
 - revertable commands
 - background calls to prevent lose of data or dead connections
+- connecting to any type of database
+- same style as vs2022
